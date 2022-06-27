@@ -2,3 +2,5 @@
 
 
 [Mypage](https://zzample.github.io/LGR-Guide/ "My First Page")
+
+`foreach` ตรงนี้จะแสดงผลต่างจากข้อความธรรมดา
