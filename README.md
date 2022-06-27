@@ -5,11 +5,12 @@
 
 `forEach() ตรงนี้จะแสดงผลต่างจากข้อความธรรมดา`
 
-`` Python
+``` Python
 first_name = "Nora"
 favorite_language = "Python"
 
-print(f"Hi, I'm {first_name}. I'm learning {favorite_language}.")``
+print(f"Hi, I'm {first_name}. I'm learning {favorite_language}.")
+```
 
 
 |Name|Email|Address|
