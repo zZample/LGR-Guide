@@ -3,15 +3,15 @@
 
 [Mypage](https://zzample.github.io/LGR-Guide/ "My First Page")
 
-`foreach` ตรงนี้จะแสดงผลต่างจากข้อความธรรมดา
+`forEach() ตรงนี้จะแสดงผลต่างจากข้อความธรรมดา`
 
-`` Pyton
-while true``
->>> type(1)
-<class 'int'>
+`` Python
+first_name = "Nora"
+favorite_language = "Python"
 
->>> type(15)
-<class 'int'>
+print(f"Hi, I'm {first_name}. I'm learning {favorite_language}.")``
 
->>> type(0)
-<class 'int'>
+
+|Name|Email|Address|
+|----|-----|-------|
+|zample|zample@example.com|Addressxample|
